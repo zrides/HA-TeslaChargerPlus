@@ -1,9 +1,9 @@
 {
   "domain": "teslawallconnectorplus",
-  "name": "Tesla Wall Connector PLUS",
+  "name": "TWC PLUS",
   "config_flow": true,
-  "documentation": "https://www.home-assistant.io",
-  "requirements": ["teslawallconnectorplus==1.0.0"],
+  "documentation": "https://github.com/zrides/HA-teslawallconnectorplus",
+  "version": "0.0.1",
   "dhcp": [
     {
       "hostname": "teslawallconnector_*",
@@ -19,6 +19,5 @@
     }
   ],
   "codeowners": ["@zrides"],
-  "iot_class": "local_polling",
-  "loggers": ["tesla_wall_connector_plus"]
+  "iot_class": "local_polling"
 }
