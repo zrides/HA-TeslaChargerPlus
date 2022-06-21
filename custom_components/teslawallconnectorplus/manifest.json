@@ -2,7 +2,7 @@
   "domain": "teslawallconnectorplus",
   "name": "TWC PLUS",
   "config_flow": true,
-  "documentation": "https://github.com/zrides/HA-teslawallconnectorplus",
+  "documentation": "https://github.com/zrides",
   "version": "0.0.1",
   "dhcp": [
     {

@@ -1,6 +1,6 @@
 """Constants for the Tesla Wall Connector integration."""
 
-DOMAIN = "tesla_wall_connector"
+DOMAIN = "teslawallconnectorplus"
 DEFAULT_SCAN_INTERVAL = 30
 
 WALLCONNECTOR_SERIAL_NUMBER = "serial_number"
